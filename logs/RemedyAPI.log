@@ -1,0 +1,21 @@
+2023-10-11 11:37:19,669 INFO com.atos.remedy.configuration.RemedyAPIApplication [main] Starting RemedyAPIApplication on BDC02APIDM6002 with PID 13868 (C:\SaurabhCode\New_Code\RemedyAPI\target\classes started by ats-AM-SU-CYA in C:\SaurabhCode\New_Code\RemedyAPI)
+2023-10-11 11:37:19,704 INFO com.atos.remedy.configuration.RemedyAPIApplication [main] No active profile set, falling back to default profiles: default
+2023-10-11 11:37:46,700 INFO com.atos.remedy.configuration.RemedyAPIApplication [main] Started RemedyAPIApplication in 28.878 seconds (JVM running for 30.525)
+2023-10-11 13:28:14,358 INFO com.atos.remedy.configuration.RemedyAPIApplication [main] Starting RemedyAPIApplication on BDC02APIDM6002 with PID 5648 (C:\SaurabhCode\New_Code\RemedyAPI\target\classes started by ats-AM-SU-CYA in C:\SaurabhCode\New_Code\RemedyAPI)
+2023-10-11 13:28:14,363 INFO com.atos.remedy.configuration.RemedyAPIApplication [main] No active profile set, falling back to default profiles: default
+2023-10-11 13:28:27,420 INFO com.atos.remedy.configuration.RemedyAPIApplication [main] Started RemedyAPIApplication in 13.683 seconds (JVM running for 15.481)
+2023-10-11 13:30:01,655 INFO com.atos.remedy.configuration.RemedyAPIApplication [main] Starting RemedyAPIApplication on BDC02APIDM6002 with PID 11936 (C:\SaurabhCode\New_Code\RemedyAPI\target\classes started by ats-AM-SU-CYA in C:\SaurabhCode\New_Code\RemedyAPI)
+2023-10-11 13:30:02,003 INFO com.atos.remedy.configuration.RemedyAPIApplication [main] No active profile set, falling back to default profiles: default
+2023-10-11 13:30:13,261 INFO com.atos.remedy.configuration.RemedyAPIApplication [main] Started RemedyAPIApplication in 13.011 seconds (JVM running for 14.509)
+2023-10-11 13:34:28,530 INFO com.atos.remedy.configuration.RemedyAPIApplication [main] Starting RemedyAPIApplication on BDC02APIDM6002 with PID 22192 (C:\SaurabhCode\New_Code\RemedyAPI\target\classes started by ats-AM-SU-CYA in C:\SaurabhCode\New_Code\RemedyAPI)
+2023-10-11 13:34:28,535 INFO com.atos.remedy.configuration.RemedyAPIApplication [main] No active profile set, falling back to default profiles: default
+2023-10-11 13:34:39,882 INFO com.atos.remedy.configuration.RemedyAPIApplication [main] Started RemedyAPIApplication in 12.352 seconds (JVM running for 13.845)
+2023-10-11 13:38:00,694 INFO com.atos.remedy.configuration.RemedyAPIApplication [main] Starting RemedyAPIApplication on BDC02APIDM6002 with PID 14392 (C:\SaurabhCode\New_Code\RemedyAPI\target\classes started by ats-AM-SU-CYA in C:\SaurabhCode\New_Code\RemedyAPI)
+2023-10-11 13:38:00,697 INFO com.atos.remedy.configuration.RemedyAPIApplication [main] No active profile set, falling back to default profiles: default
+2023-10-11 13:38:07,306 INFO com.atos.remedy.configuration.RemedyAPIApplication [main] Started RemedyAPIApplication in 7.285 seconds (JVM running for 9.491)
+2023-10-11 13:53:00,764 INFO com.atos.remedy.configuration.RemedyAPIApplication [main] Starting RemedyAPIApplication on BDC02APIDM6002 with PID 20668 (C:\SaurabhCode\New_Code\RemedyAPI\target\classes started by ats-AM-SU-CYA in C:\SaurabhCode\New_Code\RemedyAPI)
+2023-10-11 13:53:01,115 INFO com.atos.remedy.configuration.RemedyAPIApplication [main] No active profile set, falling back to default profiles: default
+2023-10-11 13:53:26,286 INFO com.atos.remedy.configuration.RemedyAPIApplication [main] Started RemedyAPIApplication in 27.421 seconds (JVM running for 29.15)
+2023-10-11 13:56:43,812 INFO com.atos.remedy.configuration.RemedyAPIApplication [main] Starting RemedyAPIApplication on BDC02APIDM6002 with PID 4864 (C:\SaurabhCode\New_Code\RemedyAPI\target\classes started by ats-AM-SU-CYA in C:\SaurabhCode\New_Code\RemedyAPI)
+2023-10-11 13:56:43,814 INFO com.atos.remedy.configuration.RemedyAPIApplication [main] No active profile set, falling back to default profiles: default
+2023-10-11 13:56:48,978 INFO com.atos.remedy.configuration.RemedyAPIApplication [main] Started RemedyAPIApplication in 5.765 seconds (JVM running for 8.717)
